@@ -1,6 +1,6 @@
 # ragr
 
-A new Flutter project.
+Here lies the Flutter app for Ragr, the littiest party app to ever exist.
 
 ## Getting Started
 
